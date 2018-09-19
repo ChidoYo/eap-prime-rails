@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:200,200i,400,400i,600,600i");
+:root {
+  font-size: 10px; }
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100; }
+
+body {
+  background: url("./img/spiration-dark.png"); }
+
+.navbar-brand {
+  font-style: italic;
+  font-size: 18px; }
+
+.navbar-nav {
+  font-size: 14px; }
+
+.container {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 2px 20px 2px 20px;
+  margin-top: 7rem;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem; }
+
+h1 {
+  font-size: 3rem; }
+
+time {
+  font-size: 1.3rem;
+  display: block;
+  margin-bottom: 3rem; }
+
+p {
+  font-size: 1.6rem; }
