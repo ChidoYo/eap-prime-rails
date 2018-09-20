@@ -6,7 +6,7 @@ import Me from './me';
 import Collection from './collection';
 import Yo from './yo';
 
-console.log('myData', myData);
+// console.log('myData', myData);
 
 class Content extends React.Component {
 
